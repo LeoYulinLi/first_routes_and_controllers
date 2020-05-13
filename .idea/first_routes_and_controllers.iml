@@ -48,6 +48,7 @@
     <orderEntry type="library" scope="PROVIDED" name="capybara (v3.32.1, Remote: ruby-2.7.1-p83) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="childprocess (v3.0.0, Remote: ruby-2.7.1-p83) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="chromedriver-helper (v2.1.1, Remote: ruby-2.7.1-p83) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.2, Remote: ruby-2.7.1-p83) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.2.2, Remote: ruby-2.7.1-p83) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.4.1, Remote: ruby-2.7.1-p83) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.12.2, Remote: ruby-2.7.1-p83) [gem]" level="application" />
@@ -73,6 +74,8 @@
     <orderEntry type="library" scope="PROVIDED" name="nio4r (v2.5.2, Remote: ruby-2.7.1-p83) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.10.9, Remote: ruby-2.7.1-p83) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="pg (v1.2.3, Remote: ruby-2.7.1-p83) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry (v0.13.1, Remote: ruby-2.7.1-p83) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry-rails (v0.3.9, Remote: ruby-2.7.1-p83) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="puma (v3.12.4, Remote: ruby-2.7.1-p83) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v2.2.2, Remote: ruby-2.7.1-p83) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v1.1.0, Remote: ruby-2.7.1-p83) [gem]" level="application" />
